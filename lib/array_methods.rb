@@ -1,4 +1,9 @@
 def find_element_index(array, value_to_find)
+  valueFound = array.index(value_to_find)
+  if valueFound != nil 
+    valueFound
+  else
+    nil 
    
 end 
   
