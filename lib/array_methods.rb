@@ -41,3 +41,9 @@ def find_min_value(array)
  x 
  
 end
+
+#array.sort!
+# array[-1] = max
+
+#array.sort!
+# array[0] = min
