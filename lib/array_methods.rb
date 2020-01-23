@@ -10,7 +10,12 @@ nil
 end
 
 
-
+#   valueFound = array.index(value_to_find)
+# if valueFound != nil 
+#    valueFound
+#  else
+#    nil 
+#  end
    
 
      
