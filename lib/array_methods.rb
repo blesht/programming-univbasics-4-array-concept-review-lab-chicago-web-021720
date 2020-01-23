@@ -1,19 +1,11 @@
 def find_element_index(array, value_to_find)
-   i = array.length 
-   
-   while array[i] do 
-    if array[i] == value_to_find
-       valueFound = i
-       
-     end
-     break if array[i] == value_to_find
-     i +=1 
-   end
-    if valueFound 
-      valueFound
-    else
-      nil 
-    end
+   array.length.do |index|
+     array.index(value_to_find) = k 
+   end 
+   if k 
+     k 
+   else 
+     nil 
     
 
 end
