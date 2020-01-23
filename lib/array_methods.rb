@@ -6,7 +6,7 @@ def find_element_index(array, value_to_find)
      k 
    else 
      nil 
-   end
+   
     
 
 end
