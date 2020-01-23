@@ -1,14 +1,9 @@
 def find_element_index(array, value_to_find)
    i = array.length 
    while array[i] do 
-   when value_to_find
-     value_to_find
-    else
-      nil 
-    end
-    i +=1 
-  end
- end
+     if array[i] == value_to_find
+       puts value_to_find
+     end
 
 end
 
